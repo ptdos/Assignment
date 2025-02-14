@@ -1,6 +1,7 @@
 # Assignment
 
 Assignment on Array
+
 Task 1: Pascal's triangle
 
 Write a function that does the following task.
@@ -45,7 +46,7 @@ Input: nums = [3,6,9,1]
 
 Output: 3
 
-Explanation: The sorted form of the array is [1,3,6,9], either (3,6) or (6,9) has the maximum difference 3.
+Explanation: The array's sorted form is [1,3,6,9]; either (3,6) or (6,9) has a maximum difference of 3.
 
 Example 2:
 
